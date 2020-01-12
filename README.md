@@ -6,4 +6,4 @@ This directory contains two files:
 
 To run the game simply run the GUI.py file from IDLE or the command line.
 
-Note: You require pygame to play this game
+Note: You require pygame to play this game.
